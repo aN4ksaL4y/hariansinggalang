@@ -5,7 +5,6 @@ from singgalang.singgalang import main as singgalang
 
 
 news = singgalang()
-news = list(dict.fromkeys(news))
 news_list = []
 news_option = []
 
