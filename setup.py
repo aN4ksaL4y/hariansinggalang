@@ -1,8 +1,9 @@
 from setuptools import setup
 
 setup(
+  name='singgalang',
+  version='0.3',
   url='https://github.com/aN4ksaL4y/hariansinggalang',
-  version='0.2',
   author='Muhammad Al Fajri',
   author_email='fajrim228@gmail.com',
   description='Python script dengan tempo yang sesingkat-singkatnya.',
