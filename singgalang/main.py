@@ -38,7 +38,7 @@ top = urwid.Overlay(main, urwid.SolidFill(u'\N{MEDIUM SHADE}'),
     min_width=20, min_height=9)
 
 def exit_on_unhandle(key):
-    raise urwid.ExitMainLoop()
+    pass
 
 def run():
     urwid.MainLoop(top, unhandled_input=exit_on_unhandle,palette=[("reversed","yellow","dark cyan")]).run()
