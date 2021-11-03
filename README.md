@@ -1,4 +1,4 @@
-<h1 align='center'>Harian Singgalang<br><b>v0.1</b></h1>
+<h1 align='center'>Harian Singgalang<br>sumber: <b><a href='https://hariansinggalang.co.id'>Hariansinggalang</a></b></h1>
 <p>Python script dengan tempo yang sesingkat-singkatnya. <b>Padangpanjang Okt 26/2021</b></p>
 <p>cuman pengen baca berita cepat, tanpa ribet kok.</p>
 <hr><h3>install langsung dengan pip di Termux/Android</h3>
