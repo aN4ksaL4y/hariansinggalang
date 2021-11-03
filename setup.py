@@ -3,7 +3,7 @@ from setuptools import setup
 readme = open('README.md').read()
 setup(
   name='singgalang',
-  version='0.4',
+  version='0.6',
   url='https://github.com/aN4ksaL4y/hariansinggalang',
   author='Muhammad Al Fajri',
   author_email='fajrim228@gmail.com',

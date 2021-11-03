@@ -1,4 +1,4 @@
-<h1 align='center'>Harian Singgalang<br>sumber: <b><a href='https://hariansinggalang.co.id'>Hariansinggalang</a></b></h1>
+<h1 align='center'>sumber: <a href='https://hariansinggalang.co.id'>Hariansinggalang</a></h1>
 <p>Python script dengan tempo yang sesingkat-singkatnya. <b>Padangpanjang Okt 26/2021</b></p>
 <p>cuman pengen baca berita cepat, tanpa ribet kok.</p>
 <hr><h3>install langsung dengan pip di Termux/Android</h3>
@@ -8,8 +8,8 @@
 <hr><h3 align='center'>bisa juga gini</h3>
 <pre>python3 -m pip install --upgrade pip</pre>
 <hr><h3 align='center'>install</h3>
-<blockquote>JohnDoe@localhost:~ pip install hariansinggalang<br>JohnDoe@localhost:~ singgalang</blockquote>
-<hr><img src="./screenshot/Screenshot_2021-11-03_12-15-37.png">
+<blockquote>JohnDoe@localhost:~ pip install singgalang<br>JohnDoe@localhost:~ singgalang</blockquote>
+<hr><img src="https://raw.githubusercontent.com/aN4ksaL4y/hariansinggalang/master/screenshot/Screenshot_2021-11-03_12-15-37.png">
 <hr><h3 align="center">Serius Ini Deskripsi</h3>
 <p>skrip ini adalah kodingan `buru-buru` yang saya langsung tulis ketika melihat modul <a href="https://pypi.org/project/pyhn">Pyhn - Python Hacker News</a> yang keren.</p>
 <p>skrip ini berdasarkan implementasi dasar dari modul:</p>
